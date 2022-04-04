@@ -81,4 +81,9 @@ intercept of the line by b = β0.
 
 In this Simple Linear Regression model, we want to fit a line which estimates the linear relationship between x and y.
 
+# (6) About the dataset
+The data set has been imported from the kaggle website with the following url-
 
+https://www.kaggle.com/datasets/mustafaali96/weight-height
+
+This dataset contains Gender, Height and Weight columns. The weight-height data has 10000 rows and 3 columns.
