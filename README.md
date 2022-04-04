@@ -15,24 +15,6 @@ The contents of this project are divided into following topics which are listed 
 
 (6) About the dataset
 
-Exploratory data analysis
-
-Mechanics of Simple Linear Regression
-
-Model slope and intercept term
-
-Making predictions
-
-Regression metrics for model performance i. RMSE ii. R2 Score
-
-Interpretation and conclusion
-
-Residual analysis
-
-Checking for Overfitting or Underfitting the data
-
-Simple Linear Regression - Model Assumptions
-
 
 # (1) Project overview
 In this project, I build a Simple Linear Regression model to study the linear relationship between Weight and Height of a dataset.
