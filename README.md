@@ -15,6 +15,8 @@ The contents of this project are divided into following topics which are listed 
 
 (6) About the dataset
 
+(7) EDA-Exploratory Data Analysis
+
 
 # (1) Project overview
 In this project, I build a Simple Linear Regression model to study the linear relationship between Weight and Height of a dataset.
